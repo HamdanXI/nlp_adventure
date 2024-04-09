@@ -1,0 +1,14 @@
+The following is the repostry for the paper "Character-Driven LLMs in Video Games: The Efficiency of TinyLlama Models".
+
+File 1: perfect_final_evaluation_v4_All_Models_with_TinyLlama_Output.ipynb
+Contain all the models output, including the different evaluation methods used.
+
+File 2: character-llm-final-output-all-characters.ipynb
+Reflect the models from the research paper "Character-LLM: A Trainable Agent for Role-Playing", by Shao, Yunfan, et al.
+
+File 3: setting-up-dataset-for-tinyllama-beethoven-qa-merged.ipynb
+Contain the code for preprocessing the dataset by Yunfan Shao.
+
+The following is a hyperlink to the survey created with the default models output for Isaac Newton: https://forms.office.com/r/SBYBGPayve
+
+Thank you!
